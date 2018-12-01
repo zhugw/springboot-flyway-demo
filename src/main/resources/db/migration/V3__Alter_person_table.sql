@@ -1,0 +1,1 @@
+alter table PERSON add primary key pk_id(id);
